@@ -5,6 +5,10 @@ html{
     background-image: linear-gradient(to top left, blue,white);
     height: 100%;
 }
+.fondo_I{
+    background-image: linear-gradient(to top left, orange,white);
+    height: 100%;
+}
 
 .btn1{
     text-decoration: none;

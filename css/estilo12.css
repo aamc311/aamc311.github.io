@@ -1,0 +1,114 @@
+.texto1{
+font-size: 15px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+}
+.texto2{
+    width: 300px;
+    height: 225px;
+    background-color: #d7f9fc;
+    padding: 2px;
+    border: 3px solid #231d75;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    display: block;
+    text-align: center;
+
+}
+.texto3{
+    font-size: 22px;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(56, 150, 53);
+}
+.texto4{
+    color: rgb(170, 29, 19);
+    font-size: 45px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(124, 209, 138);
+}
+.texto5{
+    width: 450px;
+    height: 100px;
+    background-color: #e7feff;
+    padding: 2px;
+    border: 3px solid #1e1d75;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+.texto6{
+    font-size: 30px;
+    color: white;
+    background-color: rgb(51, 51, 51);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.texto7{
+    font-size: 40px;
+    color: rgb(44, 54, 110);
+    background-color: rgb(159, 248, 166);
+    font-family:'Times New Roman', Times, serif;
+}
+.texto8{
+    width: 1050px;
+    height: 160px;
+    background-color: #e7feff;
+    padding: 2px;
+    border: 3px solid #1e1d75;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    display: block;
+    text-align: left;
+}
+.texto9{
+    width: 1000px;
+    height: 350px;
+    background-color: #e2ffdd;
+    padding: 2px;
+    border: 3px solid #1da302;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    margin: auto;
+    display: block;
+    text-align: left;
+}
+.tamano{
+    font-size: 30px;
+}
+.tamano2{
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nada{
+    background-color: rgb(71, 218, 78);
+}
+.img{
+    height: 300px;
+    width: 300px;
+    border-radius: 35px;
+    border: 5px solid #000000;
+}
+.img2{
+    height: 375px;
+    width: 650px;
+    box-shadow: 10px 10px 0px #000000;
+}
+.img3{
+    height: 700px;
+    width: 260px;
+    border-radius: 100px;
+}
+.img4{
+    width: 275px;
+    height: 100px;
+    border-radius: 100%;
+}

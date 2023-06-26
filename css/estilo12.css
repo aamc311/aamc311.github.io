@@ -1,3 +1,42 @@
+
+
+.btn1{
+    background:white;
+    text-decoration: none;
+    display:inline-block;
+    padding:10px;
+    border: 3px solid black;
+    border-radius:50px;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    transition: all 0.9s;
+    text-align: center;
+    font-size: 30px;
+}
+.btn1:hover{
+    background:rgb(158, 192, 108);
+    color:white;
+    border: 3px solid green;
+}
+.btn2{
+    background:white;
+    text-decoration: none;
+    display:inline-block;
+    padding:10px;
+    border: 3px solid black;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    transition: all 0.9s;
+    text-align: center;
+    font-size: 15px;
+}
+.btn2:hover{
+    background:cadetblue;
+    color:white;
+    border: 3px solid blue;
+}
 .texto1{
 font-size: 15px;
 font-weight: bold;
